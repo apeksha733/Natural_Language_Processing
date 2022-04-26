@@ -1,28 +1,3 @@
-0.नमस्कार
-1.प्रकाश पादुकोण कौन है                                        (describing functionality of proper noun)
-2.बैडमिंटन खेल क्या है
-3.बैडमिंटन क्या खेल है                                        (Changing order doesnt change the answer)
-4.बैडमिंटन कोर्ट के आकार क्या होते है                             //(Incorrect answer).
-5.बैडमिंटन 'कोर्ट' के आकार क्या होते है                           //correct
-6.बैडमिंटन की शुरुआत कब हुई थी                               //both same
-7.बैडमिंटन खेल  की शुरुआत कब हुई थी
-8.भारत में बैडमिंटन खेल  की शुरुआत कब हुई थी                    //correct Gives answer for india
-9.भारत में badminton खेल  की शुरुआत कब हुई थी                 (ensured keyword is in hindi).
-10.शटलकॉक के बारे में कुछ बताओ                               #
-11.शटलकॉक के बारे में tell me something                      #
-12.स्मैश क्या होता है                                         #
-13.बैडमिंटन सेना नेहवाल सिंधु  //warning for sena   साइना नेहवाल #Gives additional stupid info
-14. What is नेटशॉट                                       #
-15.शटलकॉक कितने किस्मों की होती है                           //correct
-16.शटलकॉक कितने types की होती है                          #incorrect (since keyword is now in the foriegn language it wouldn’t recognise it as the keyword).
-17.आज की जानकारी के लिए धन्यवाद,अलविदा
-18.अलविदा
-19.धन्यवाद
-
-******
-
-
-
 नमस्कार
 
 भारतीय सूचना प्रौद्योगिकी संस्थान, नागपुर के बारे में कुछ बताओ
